@@ -40,13 +40,13 @@ La automatización combina:
 
 La presentación comienza con una sola diapositiva:
 
-![Plantilla de PowerPoint](assets/plantilla-demo.jpg)
+![Plantilla de PowerPoint](ASSETS/plantilla-demo.jpg)
 
 ### Resultado
 
 Después de ejecutar la macro, PowerPoint genera automáticamente una diapositiva por cada nombre:
 
-![Resultado generado](assets/resultado-generado.jpg)
+![Resultado generado](ASSETS/resultado-generado.jpg)
 
 ## Funcionalidades
 
